@@ -7,7 +7,7 @@ int main() {
         scanf("%d", &ar[index]);
     }
 
-printf("The array elements are: ");
+    printf("The array elements are: ");
     for(index = 0; index < 5; index++) {
         printf(" %d ",ar[index]);
     }
